@@ -1,2 +1,2 @@
-# Template_MasterDevelopKux
-Template with Branch: Master/Develop/Kux
+# KsWare.Presentation.Logging
+Logging for KsWare Presentation Framework
